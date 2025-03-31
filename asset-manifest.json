@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andrewtakacshtml/static/css/main.414f74a6.css",
-    "main.js": "/andrewtakacshtml/static/js/main.d72db7eb.js",
+    "main.css": "/andrewtakacshtml/static/css/main.6b77a69a.css",
+    "main.js": "/andrewtakacshtml/static/js/main.263fccfa.js",
     "static/js/453.2a57bae7.chunk.js": "/andrewtakacshtml/static/js/453.2a57bae7.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/andrewtakacshtml/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/andrewtakacshtml/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -64,12 +64,12 @@
     "static/media/KaTeX_Size3-Regular.woff": "/andrewtakacshtml/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/andrewtakacshtml/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/andrewtakacshtml/index.html",
-    "main.414f74a6.css.map": "/andrewtakacshtml/static/css/main.414f74a6.css.map",
-    "main.d72db7eb.js.map": "/andrewtakacshtml/static/js/main.d72db7eb.js.map",
+    "main.6b77a69a.css.map": "/andrewtakacshtml/static/css/main.6b77a69a.css.map",
+    "main.263fccfa.js.map": "/andrewtakacshtml/static/js/main.263fccfa.js.map",
     "453.2a57bae7.chunk.js.map": "/andrewtakacshtml/static/js/453.2a57bae7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.414f74a6.css",
-    "static/js/main.d72db7eb.js"
+    "static/css/main.6b77a69a.css",
+    "static/js/main.263fccfa.js"
   ]
 }
