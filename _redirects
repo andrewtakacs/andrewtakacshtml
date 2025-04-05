@@ -1,6 +1,9 @@
-# Redirect all HTTP traffic to HTTPS
+# Force HTTPS
 http://*  https://:splat  301!
-http://*  https://:splat  301!
+http://www.*  https://www.:splat  301!
+
+# Handle www subdomain
+https://andrewtakacs.com/*  https://www.andrewtakacs.com/:splat  301!
 
 # Handle 404s
 /*  /index.html  200 
