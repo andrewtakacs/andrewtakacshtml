@@ -1,0 +1,6 @@
+# Redirect all HTTP traffic to HTTPS
+http://*  https://:splat  301!
+http://*  https://:splat  301!
+
+# Handle 404s
+/*  /index.html  200 
