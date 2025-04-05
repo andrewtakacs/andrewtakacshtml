@@ -6,4 +6,5 @@ http://www.*  https://www.:splat  301!
 https://andrewtakacs.com/*  https://www.andrewtakacs.com/:splat  301!
 
 # Handle 404s
-/*  /index.html  200 
+/*  /404.html  404
+/index.html  /  301 
