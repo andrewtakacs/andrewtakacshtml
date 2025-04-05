@@ -14,6 +14,11 @@ https://andrewtakacs.com/*  https://www.andrewtakacs.com/:splat  301!
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; frame-ancestors 'none';
   Permissions-Policy: geolocation=(), microphone=(), camera=()
 
+# Handle static files
+/static/*  /static/:splat  200
+/favicon.ico  /favicon.ico  200
+/manifest.json  /manifest.json  200
+
 # Handle 404s
 /*  /404.html  404
 /index.html  /  301 
